@@ -19,10 +19,29 @@ h1 {
 .container {
     margin: auto;
     width: 60%;
-    background-color: grey;
+    background-color: rgb(219, 219, 219);
+    padding: 30px;
 }
 
+.container:hover {
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 0);
+}
+
+th {
+    padding: 8px;
+}
 
 input {
     display: block;
+    padding: 6px;
+    width: 80%;
+}
+
+#submit {
+    padding: 10px;
+    width: 80%;
+}
+
+#submit:hover {
+    cursor: pointer;
 }
