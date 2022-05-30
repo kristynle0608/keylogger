@@ -1,8 +1,8 @@
 $(document).ready(function(){
 
-    $("#username").on("input", function(){
-        var strUsername = $("#username").val();
-        console.log("User input for username: " + strUsername);
+    $("#clear").click(function () {
+        $("#username").val('');
+        $("#password").val('');
     });
 
     $("#password").on("input", function(){
