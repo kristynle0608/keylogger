@@ -1,5 +1,6 @@
 body {
     padding: 50px;
+    background-color: #bae8e8;
 }
 
 h1 {
@@ -44,4 +45,22 @@ input {
 
 #clear:hover {
     cursor: pointer;
+}
+
+.text {
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+h1 {
+    font-size: 50px;
+    color: #e8630a;
+}
+
+h2 {
+    color: #430f58;
+}
+
+.red {
+    color: crimson;
 }
