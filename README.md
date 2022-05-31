@@ -41,5 +41,8 @@ I'm pretty proud of this one. At the moment, I'm not really sure what I want to 
 - Run ``keylogger.html``
 
 ## Credits
+[Codecademy - Introduction to Cybersecurity](https://www.codecademy.com/learn/introduction-to-cybersecurity "Introduction to Cybersecurity | Codecademy")
 
+[Malwarebytes - Keylogger](https://www.malwarebytes.com/keylogger "What is a Keylogger? | How to Detect Keyloggers | Malwarebytes")
 
+[favicon.io](https://favicon.io/ "The best Favicon Generator (completely free) - favicon.io")
