@@ -8,10 +8,16 @@ Keylogger
 **DISCLAIMER**: The demonstration is not a real keylogger. I'm not smart nor talented enough to create one. Feel free to use it.
 
 ## Inspiration for this Project
-This project is inspired by *Codecademy*'s [Introduction to Cybersecurity](https://www.codecademy.com/learn/introduction-to-cybersecurity "Codeacademy - Introduction to Cybersecurity Course") course. The *Cyber Threats* section has multiple examples for different malwares and some contains helpful demonstrations. One of them is the *keylogger*.
+This project is inspired by *Codecademy*'s [Introduction to Cybersecurity](https://www.codecademy.com/learn/introduction-to-cybersecurity "Introduction to Cybersecurity | Codecademy") course. The *Cyber Threats* section has multiple examples for different malwares and some contains helpful demonstrations. One of them is the *keylogger*.
 
 I already knew what a keylogger is from completing *CS2413 - Information Security* at UNB, but I could never truly understood the concept of it since I coudn't visualize how it would work. The demonstration that *Codecademy* has helps me understand how a keylogger works and I find it pretty cool. So, I wanted to create my own. And, ta-da, I finally made it!
 
 ## Technologies/Languages that I used to Build This Project
 - Visual Studio Code
-- 
+  - [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer "Live Server - Visual Studio Marketplace")
+- HTML
+- CSS
+- JavaScript
+  - jQuery
+
+
