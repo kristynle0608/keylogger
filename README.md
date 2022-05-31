@@ -32,3 +32,12 @@ I feel like the design isn't that pretty and captivating yet. It's fairly simple
 
 ### My Opinion on This Project
 I'm pretty proud of this one. At the moment, I'm not really sure what I want to do after graduation: Software Development or Cybersecurity. I think both are really interesting since I love fixing bugs and coding but I also want to learn more about cyber threats and how to fight them. So, to make a project that both combines some coding and cybersecurity is really cool to me.
+
+## Instructions to Access Keylogger
+- Download the .zip file of this project
+  - Locate the green *Code* button on the page
+  - Click on the button and click 'Download ZIP'
+- Locate ``keylogger.html`` in the .zip file
+- Run ``keylogger.html``
+
+
